@@ -1,1 +1,1 @@
-const x=1000;
+const x=100;
